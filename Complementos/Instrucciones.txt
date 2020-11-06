@@ -1,0 +1,10 @@
+1.) Ejecutamos el Setup y seguimos las instrucciones del setup.
+2.) El programa se abre automaticamente, por lo tanto cerramos el programa.
+3.) Copiamos los elementos de la carpeta "BD" alojada en la carpeta "VotacionesCME X86"
+4.) Abrimos la carpeta "Data - Acceso directo"
+5.) Accedemos a la carpeta "WKADXEKK.GR8" o similar
+6.) Accedemos a la carpeta "ZVLZJAJL.MHH" o similar
+7.) Accedemos a la carpeta "vota..tion_b16........" o similar
+8.) Accedemos a la carpeta "Data"
+9.) Pegamos aqui los elementos copiados anteriormente de la carpeta "BD"
+10.) Abrimos el programa Votaciones CME (acceso directo en el escritorio)
