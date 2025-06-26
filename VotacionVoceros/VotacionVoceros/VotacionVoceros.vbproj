@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62B161AD-F5CF-4EB0-9343-EB4A9812E37A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VotacionVoceros.My.MyApplication</StartupObject>
+    <RootNamespace>VotacionVoceros</RootNamespace>
+    <AssemblyName>Votaciones CME</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\USUARIO\Desktop\publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Votaciones CME.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Votaciones CME.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>votacion.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>Custom</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E39ACB457C955C94EE0BF9DBCF6011FB3769D1D5</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>VotacionVoceros_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+    <Import Include="VotacionVoceros" />
+    <Import Include="VotacionVoceros.BasedatosvotacionDataSetTableAdapters" />
+    <Import Include="VotacionVoceros.My" />
+    <Import Include="VotacionVoceros.My.Resources" />
+    <Import Include="VotacionVoceros.tblcompDataSetTableAdapters" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador.Designer.vb">
+      <DependentUpon>Administrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasedatosvotacionDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BasedatosvotacionDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CambiarContraseña.Designer.vb">
+      <DependentUpon>CambiarContraseña.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CambiarContraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConClaveAdmin.Designer.vb">
+      <DependentUpon>ConClaveAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConClaveAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContVotosD.Designer.vb">
+      <DependentUpon>ContVotosD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContVotosD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContVotosN.Designer.vb">
+      <DependentUpon>ContVotosN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContVotosN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar.Designer.vb">
+      <DependentUpon>Eliminar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClave.Designer.vb">
+      <DependentUpon>FormClave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormClave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVotos.Designer.vb">
+      <DependentUpon>FormVotos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormVotos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FotosForm.Designer.vb">
+      <DependentUpon>FotosForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FotosForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImgJorn.Designer.vb">
+      <DependentUpon>ImgJorn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImgJorn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImgTarD.Designer.vb">
+      <DependentUpon>ImgTarD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImgTarD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImgTarN.Designer.vb">
+      <DependentUpon>ImgTarN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImgTarN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Registro.Designer.vb">
+      <DependentUpon>Registro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteDia.Designer.vb">
+      <DependentUpon>ReporteDia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteDia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteNoche.Designer.vb">
+      <DependentUpon>ReporteNoche.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteNoche.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectJorn.Designer.vb">
+      <DependentUpon>SelectJorn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelectJorn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblcompDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tblcompDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tblcompDataSet.vb">
+      <DependentUpon>tblcompDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VotosD.Designer.vb">
+      <DependentUpon>VotosD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VotosD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VotosN.Designer.vb">
+      <DependentUpon>VotosN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VotosN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YaVotaron.Designer.vb">
+      <DependentUpon>YaVotaron.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YaVotaron.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administrador.resx">
+      <DependentUpon>Administrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambiarContraseña.resx">
+      <DependentUpon>CambiarContraseña.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConClaveAdmin.resx">
+      <DependentUpon>ConClaveAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContVotosD.resx">
+      <DependentUpon>ContVotosD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContVotosN.resx">
+      <DependentUpon>ContVotosN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar.resx">
+      <DependentUpon>Eliminar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClave.resx">
+      <DependentUpon>FormClave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVotos.resx">
+      <DependentUpon>FormVotos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FotosForm.resx">
+      <DependentUpon>FotosForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImgJorn.resx">
+      <DependentUpon>ImgJorn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImgTarD.resx">
+      <DependentUpon>ImgTarD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImgTarN.resx">
+      <DependentUpon>ImgTarN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro.resx">
+      <DependentUpon>Registro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteDia.rdlc" />
+    <EmbeddedResource Include="ReporteDia.resx">
+      <DependentUpon>ReporteDia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteNoche.rdlc" />
+    <EmbeddedResource Include="ReporteNoche.resx">
+      <DependentUpon>ReporteNoche.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectJorn.resx">
+      <DependentUpon>SelectJorn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VotosD.resx">
+      <DependentUpon>VotosD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VotosN.resx">
+      <DependentUpon>VotosN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YaVotaron.resx">
+      <DependentUpon>YaVotaron.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BasedatosvotacionDataSet.xsc">
+      <DependentUpon>BasedatosvotacionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BasedatosvotacionDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BasedatosvotacionDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BasedatosvotacionDataSet.xss">
+      <DependentUpon>BasedatosvotacionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="tblcompDataSet.xsc">
+      <DependentUpon>tblcompDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tblcompDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tblcompDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tblcompDataSet.xss">
+      <DependentUpon>tblcompDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="VotacionVoceros_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Basedatosvotacion.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tblcomp.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="votacion.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VSTORuntime.4.0">
+      <Visible>False</Visible>
+      <ProductName>Runtime de Microsoft Visual Studio 2010 Tools para Office %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

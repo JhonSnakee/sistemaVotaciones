@@ -1,0 +1,190 @@
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Basedatosvotacion.accdb
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\tblcomp.accdb
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\EnvDTE.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\stdole.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Inicio.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Resources.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Registro.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.vbproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.vbproj.CopyComplete
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ContVotosD.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ContVotosN.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.SelectJorn.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.VotosD.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.VotosN.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.YaVotaron.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ConClaveAdmin.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.FormClave.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Administrador.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.CambiarContraseña.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ReporteDia.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ReporteNoche.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.FotosForm.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ImgJorn.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ImgTarD.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ImgTarN.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.FormVotos.resources
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Eliminar.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Basedatosvotacion.accdb
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\tblcomp.accdb
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\VotacionVoceros.exe.config
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\VotacionVoceros.exe
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\VotacionVoceros.pdb
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\VotacionVoceros.xml
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\EnvDTE.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\stdole.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.vbprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Administrador.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.CambiarContraseña.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ConClaveAdmin.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ConClaveClose.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ContVotosD.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ContVotosN.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Eliminar.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.FormClave.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.FormVotos.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.FotosForm.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ImgJorn.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ImgTarD.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ImgTarN.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Inicio.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Resources.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.Registro.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ReporteDia.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.ReporteNoche.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.SelectJorn.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.VotosD.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.VotosN.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.YaVotaron.resources
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.vbproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.vbproj.CopyComplete
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.exe
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.xml
+C:\Users\USUARIO\Desktop\Nuevo Votaciones\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.pdb
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Votaciones CME.exe.config
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Votaciones CME.exe
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Votaciones CME.pdb
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Votaciones CME.xml
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\Votaciones CME.exe
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\Votaciones CME.xml
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\Votaciones CME.pdb
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Votaciones CME.exe.manifest
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\bin\Debug\Votaciones CME.application
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\Votaciones CME.TrustInfo.xml
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\Votaciones CME.exe.manifest
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\Votaciones CME.application
+C:\Users\USUARIO\Desktop\Votaciones\VotacionVoceros\VotacionVoceros\obj\Debug\VotacionVoceros.vbprojAssemblyReference.cache
