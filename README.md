@@ -43,4 +43,4 @@ El sistema permite registrar votantes, administrar usuarios, contar votos, gener
 
 ## 📬 Contacto
 
-> Desarrollado con cariño por [@JhonSnakee](https://github.com/JhonSnakee) para SENA CMM.
+> Desarrollado con cariño por [@JhonSnakee](https://github.com/JhonSnakee) para SENA CME.
