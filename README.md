@@ -41,6 +41,8 @@ El sistema permite registrar votantes, administrar usuarios, contar votos, gener
 4. Configurar la conexión a las bases de datos Access si fuera requerido.
 5. Ejecutar el proyecto (F5).
 
+---
+
 ## 📬 Contacto
 
-> Desarrollado con cariño por [@JhonSnakee](https://github.com/JhonSnakee) para SENA CME.
+> Desarrollado con cariño por [@JhonSnakee](https://github.com/JhonSnakee)
